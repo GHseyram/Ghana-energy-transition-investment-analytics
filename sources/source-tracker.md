@@ -30,7 +30,7 @@ This document records the sources used in the Ghana Energy Transition Investment
 
 | ID | Topic | Organization | Document or Dataset | Publication Date | Data Period | Link | Key Information | Report Section | Status |
 |---|---|---|---|---|---|---|---|---|---|
-| S01 |  |  |  |  |  |  |  |  | To review |
+| S01 | Ghana energy system | Energy Commission of Ghana | 2026 National Energy Statistical Bulletin | May 2026 | 2000–2025 | [Official PDF](https://www.energycom.gov.gh/index.php/planning/energy-statistics?download=855%3A2026-energy-statistics) | National data on energy supply, electricity generation, capacity, consumption and access | Section 2 | Verified |
 | S02 |  |  |  |  |  |  |  |  | To review |
 | S03 |  |  |  |  |  |  |  |  | To review |
 | S04 |  |  |  |  |  |  |  |  | To review |
