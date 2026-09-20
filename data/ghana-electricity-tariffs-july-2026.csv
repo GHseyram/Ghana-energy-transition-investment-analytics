@@ -1,0 +1,11 @@
+segment,tariff_category,consumption_band_or_voltage,retail_tariff_ghp_per_kwh,retail_tariff_ghs_per_kwh,service_charge_ghp_per_month,service_charge_ghs_per_month,net_metering_export_ghp_per_kwh,net_metering_export_ghs_per_kwh,effective_date,source_id
+Residential,Residential lifeline,0-30 kWh,89.9315,0.899315,213.0000,2.130000,35.9726,0.359726,2026-07-01,S02
+Residential,Residential standard,31-300 kWh,203.7509,2.037509,1073.0886,10.730886,81.5004,0.815004,2026-07-01,S02
+Residential,Residential high-use,301+ kWh,269.2235,2.692235,1073.0886,10.730886,107.6894,1.076894,2026-07-01,S02
+Business,Non-residential,0-300 kWh,183.9549,1.839549,1242.8245,12.428245,73.5820,0.735820,2026-07-01,S02
+Business,Non-residential,301+ kWh,224.0395,2.240395,1242.8245,12.428245,89.6158,0.896158,2026-07-01,S02
+Industrial,SLT-LV,Low voltage,240.2104,2.402104,50000.0000,500.000000,96.0841,0.960841,2026-07-01,S02
+Industrial,SLT-MV,Medium voltage,208.6329,2.086329,50000.0000,500.000000,83.4532,0.834532,2026-07-01,S02
+Industrial,SLT-MV2,Medium voltage 2,136.6512,1.366512,50000.0000,500.000000,,,2026-07-01,S02
+Industrial,SLT-HV,High voltage,188.4762,1.884762,50000.0000,500.000000,75.3905,0.753905,2026-07-01,S02
+EV charging,SLT-EV,Commercial EV charging,208.6329,2.086329,50000.0000,500.000000,83.4532,0.834532,2026-07-01,S02
