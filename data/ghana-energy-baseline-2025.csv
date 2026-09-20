@@ -1,0 +1,19 @@
+indicator,year,value,unit,category,source_id,source_location
+Population electricity access rate,2025,89.13,percent,Energy access,S01,Section 1
+Household electricity access rate,2025,87.99,percent,Energy access,S01,Section 1
+Total energy supply,2025,15449,ktoe,Energy supply,S01,Table 2.1
+Total final energy consumption,2025,10551,ktoe,Energy consumption,S01,Table 2.2
+Total installed generation capacity,2025,5840,MW,Power capacity,S01,Section 3.1
+Hydro installed capacity,2025,1584,MW,Power capacity,S01,Section 3.1
+Thermal installed capacity,2025,4073,MW,Power capacity,S01,Section 3.1
+Other renewable installed capacity,2025,183,MW,Power capacity,S01,Section 3.1
+Total electricity generation,2025,27945,GWh,Electricity generation,S01,Section 3.2
+Hydro electricity generation,2025,8752,GWh,Electricity generation,S01,Section 3.2
+Thermal electricity generation,2025,18996,GWh,Electricity generation,S01,Section 3.2
+Other renewable electricity generation,2025,197,GWh,Electricity generation,S01,Section 3.2
+Other renewable generation share,2025,0.71,percent,Generation mix,S01,Section 3.2
+System peak load,2025,4283,MW,Electricity demand,S01,Section 3.4
+Total electricity consumption,2025,21822,GWh,Electricity consumption,S01,Electricity consumption by sector
+Industrial electricity consumption,2025,8636,GWh,Electricity consumption,S01,Electricity consumption by sector
+Residential electricity consumption,2025,8713,GWh,Electricity consumption,S01,Electricity consumption by sector
+Service-sector electricity consumption,2025,4445,GWh,Electricity consumption,S01,Electricity consumption by sector
