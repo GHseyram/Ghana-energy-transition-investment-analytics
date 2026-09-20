@@ -31,7 +31,7 @@ This document records the sources used in the Ghana Energy Transition Investment
 | ID | Topic | Organization | Document or Dataset | Publication Date | Data Period | Link | Key Information | Report Section | Status |
 |---|---|---|---|---|---|---|---|---|---|
 | S01 | Ghana energy system | Energy Commission of Ghana | 2026 National Energy Statistical Bulletin | May 2026 | 2000–2025 | [Official PDF](https://www.energycom.gov.gh/index.php/planning/energy-statistics?download=855%3A2026-energy-statistics) | National data on energy supply, electricity generation, capacity, consumption and access | Section 2 | Verified |
-| S02 |  |  |  |  |  |  |  |  | To review |
+| S02 | Electricity tariffs and net metering | Public Utilities Regulatory Commission (PURC) | 2026 Third Quarter Electricity, Natural Gas, Water and Net Metering Tariffs | 16 June 2026 | Effective 1 July 2026 | [Official PDF](https://www.purc.com.gh/attachment/346541-20260729120703.pdf) | Current end-user electricity tariffs, service charges and net-metering import and export tariffs | Sections 3, 5, 6 and financial analysis | Verified |
 | S03 |  |  |  |  |  |  |  |  | To review |
 | S04 |  |  |  |  |  |  |  |  | To review |
 | S05 |  |  |  |  |  |  |  |  | To review |
