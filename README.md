@@ -232,3 +232,10 @@ This is an independent research and professional portfolio project. It does not 
 ## Disclaimer
 
 This is an independent research and professional portfolio project. It does not constitute investment, financial or legal advice.
+## Python Notebooks
+
+| Notebook | Analysis Covered | View on GitHub | Run in Colab |
+|---|---|---|---|
+| 01 — Python Basics | Variables, calculations, data loading, quality checks and electricity-generation charts | [View notebook](notebooks/python/01_python_basics.ipynb) | [Open in Colab](https://colab.research.google.com/github/GHseyram/Ghana-energy-transition-investment-analytics/blob/main/notebooks/python/01_python_basics.ipynb) |
+| 02 — Energy Data Analysis | Sector consumption, installed capacity, peak demand, charts and investment interpretation | [View notebook](notebooks/python/02_energy_data_analysis.ipynb) | [Open in Colab](https://colab.research.google.com/github/GHseyram/Ghana-energy-transition-investment-analytics/blob/main/notebooks/python/02_energy_data_analysis.ipynb) |
+
