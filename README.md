@@ -238,4 +238,4 @@ This is an independent research and professional portfolio project. It does not 
 |---|---|---|---|
 | 01 — Python Basics | Variables, calculations, data loading, quality checks and electricity-generation charts | [View notebook](notebooks/python/01_python_basics.ipynb) | [Open in Colab](https://colab.research.google.com/github/GHseyram/Ghana-energy-transition-investment-analytics/blob/main/notebooks/python/01_python_basics.ipynb) |
 | 02 — Energy Data Analysis | Sector consumption, installed capacity, peak demand, charts and investment interpretation | [View notebook](notebooks/python/02_energy_data_analysis.ipynb) | [Open in Colab](https://colab.research.google.com/github/GHseyram/Ghana-energy-transition-investment-analytics/blob/main/notebooks/python/02_energy_data_analysis.ipynb) |
-
+| 03 — Solar Investment Model | Illustrative solar costs, annual savings, simple payback and scenario comparison | [View notebook](notebooks/03_solar_investment_model.ipynb) | [Open in Colab](https://colab.research.google.com/github/GHseyram/Ghana-energy-transition-investment-analytics/blob/main/notebooks/03_solar_investment_model.ipynb) |
