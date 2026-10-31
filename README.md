@@ -263,3 +263,26 @@ adoption differences or which country offers better returns.
 
 Next evidence priorities are scoped Ghana installation quotations,
 customer demand profiles and complete financing terms.
+### Ghana base-case assumptions
+
+| Input | Value |
+|---|---:|
+| System capacity | 100 kWp |
+| Illustrative installation cost | USD 900/kWp |
+| Dated exchange-rate input | GHS 11.6650/USD |
+| Initial investment | GHS 1,049,850 |
+| On-site self-consumption | 90% |
+| Annual maintenance | 1.5% of initial investment |
+| Annual generation degradation | 0.5% |
+| Project lifetime | 20 years |
+| Illustrative real GHS discount rate | 8% |
+| Export value | Zero |
+| Replacement stress test | 15% of initial investment at year 10 |
+
+Cash flows are expressed in constant GHS. Tariff and maintenance
+costs remain constant in real terms. Simple payback uses first-year
+net savings; NPV incorporates generation degradation.
+
+This is a preliminary, unlevered scenario. Customer-specific costs,
+tax treatment, financing and operating conditions require verification.
+See notebook 05 and its source references for details.
