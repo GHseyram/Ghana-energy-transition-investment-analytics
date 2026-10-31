@@ -242,3 +242,24 @@ This is an independent research and professional portfolio project. It does not 
 | 04 — Ghana Solar Market Inputs | Official tariff sources, business tariff comparison and illustrative energy-charge savings | [View notebook](notebooks/04_ghana_solar_market_inputs.ipynb) | [Open in Colab](https://colab.research.google.com/github/GHseyram/Ghana-energy-transition-investment-analytics/blob/main/notebooks/04_ghana_solar_market_inputs.ipynb) |
 | 05 — Ghana Solar Scenario | GHS savings, payback, cash flows, NPV and self-consumption break-even analysis | [View notebook](notebooks/05_ghana_solar_scenario.ipynb) | [Open in Colab](https://colab.research.google.com/github/GHseyram/Ghana-energy-transition-investment-analytics/blob/main/notebooks/05_ghana_solar_scenario.ipynb) |
 | 06 — Ghana–South Africa Comparison | Solar cost, adoption, financing, connection and tariff evidence; preliminary lessons for Ghana | [View notebook](notebooks/06_ghana_south_africa_comparison.ipynb) | [Open in Colab](https://colab.research.google.com/github/GHseyram/Ghana-energy-transition-investment-analytics/blob/main/notebooks/06_ghana_south_africa_comparison.ipynb) |
+## Preliminary findings
+
+The illustrative 100 kWp Ghana solar scenario produces:
+- Simple payback: 3.17 years.
+- Twenty-year NPV: GHS 2,083,189.03.
+- NPV including an illustrative year-10 replacement:
+  GHS 2,010,246.47.
+- Break-even self-consumption including replacement: 34.97%
+  at the base installation cost.
+
+Results depend on documented inputs and illustrative assumptions.
+One tested higher-cost, lower-self-consumption case becomes
+negative after including replacement costs.
+
+The Ghana–South Africa comparison documents rooftop adoption,
+supplier pricing, advertised financing, connection requirements
+and a commercial tariff example. It does not establish what caused
+adoption differences or which country offers better returns.
+
+Next evidence priorities are scoped Ghana installation quotations,
+customer demand profiles and complete financing terms.
